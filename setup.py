@@ -66,5 +66,7 @@ setup(
         "Topic :: Internet :: WWW/HTTP",
         "License :: OSI Approved :: MIT License",
        ],
+    install_requires=['twisted'],
+    setup_requires=['twisted'],
     **extra_setup_args
     )
