@@ -1,1 +1,1 @@
-txstatsd = "1.0.0-1"
+txstatsd = "1.0.0+weasyl-1"
